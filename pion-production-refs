@@ -1,0 +1,40 @@
+MINERVA:
+ - Bercellie (thesis, McFarland): https://inspirehep.net/literature/2070948
+    Single pion production
+    Various POTs: 1.06E21, 3.33E20, ...
+    Chapter 6, several kin variables
+ - 1mu-Np-Npi0 on carbon: https://inspirehep.net/literature/1780811  arXiv:2002.05812
+    POT: 3.33E20
+    Not clear what is done for several pi0s
+    Some data release https://arxiv.org/src/2002.05812v5/anc
+ - Tuning GENIE to pi production: https://inspirehep.net/literature/1723695 arXiv:1903.01558
+    pi+-, pi0, nu, nubar, 1pi, Npi
+    see refs 17, 18, 19 therein
+ - CC1pi+, CCNpi+ on CH: https://inspirehep.net/literature/1303106 arXiv:1406.6415
+    3.04E20 FHC
+    See refs 21, 22 therein
+ - CCpi+(nu), CCpi0(nub):  https://inspirehep.net/literature/1471834 arXiv:1606.07127 1503.02107 1406.6415
+    3.04E20 POT FHC  +  2.01E20 POT RHC (LE mode)
+    Data release for 1606.07127, 1503.02107, 1406.6415 (covariance matrices, xsecs ...): https://minerva.fnal.gov/pion-data-release-page/
+
+￼
+￼T2K (https://zenodo.org/communities/t2kexperiment/records?q=&l=list&p=1&s=10&sort=newest and https://t2k-experiment.org/results):
+ - Coherent charged pion production for nu and nub on carbon https://arxiv.org/pdf/2308.16606
+    11.54E20 + 8.15E20 POT
+    Data release (apparently only fluxes): https://zenodo.org/records/8279705
+ - muCC single pi+ Np https://arxiv.org/pdf/2102.03346
+    11.6E20 FHC only
+ - Muon and pi kinematics in single pi+ production https://arxiv.org/pdf/1909.03936
+    5.56E20 FHC
+    Data release (data, fluxes, cov): https://t2k-experiment.org/results/data-release-for-measurement-of-the-muon-neutrino-charged-current-single-pi-production-on-hydrocarbon-using-the-t2k-off-axis-near-detector-nd280/
+
+￼
+MiniBooNE
+ - Pi0 and charged pi production in FHC and RHC https://arxiv.org/abs/1011.3572 https://arxiv.org/abs/1010.3264 https://arxiv.org/abs/0911.2063
+    Data releases (fluxes, data, some cov): https://rtayloe.pages.iu.edu/MB/data-releases/
+
+
+Electron scattering
+ - Kabirnezhad https://arxiv.org/pdf/2203.15594
+    Useful comparisons against electron data
+ - CLAS https://arxiv.org/pdf/0909.2349 https://arxiv.org/pdf/0709.1946 https://arxiv.org/pdf/nucl-ex/0601007
